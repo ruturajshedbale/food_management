@@ -1,0 +1,6 @@
+{
+  "name": "Smart Food Rescue & Redistribution Intelligence System",
+  "description": "Production-grade DBMS and AI intelligence platform connecting surplus food donors, recipients, and volunteer rescue networks with ACID transactions and operational event streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
